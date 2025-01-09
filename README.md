@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Different AI agent builder and python3 library**
 
+- 👀 I’m interested in **scouting around AI news and explore new AI models**
+
 - 👯 I’m looking to collaborate on **using AI model to slack off manual work in data science**
 
 - 🤝 I’m looking for help with **the real field project experience**
