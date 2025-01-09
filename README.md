@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ruiqi Tan</h1>
-<h3 align="center">A passionate IT Audit from China</h3>
+<h3 align="center">A passionate IT Engineer from Luxembourg</h3>
 
-- 🔭 I’m currently working on **IT Risk management project**
+- 🔭 I’m currently working on **Using AI agents/Web 3 to automate compliance workflow**
 
-- 🌱 I’m currently learning **Python 3 with focus statistics and data analysis**
+- 🌱 I’m currently learning **Different AI agent builder and python3 library**
 
-- 👯 I’m looking to collaborate on **yny data-analysis related projects**
+- 👯 I’m looking to collaborate on **using AI model to slack off manual work in data science**
 
 - 🤝 I’m looking for help with **the real field project experience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagebin](https://github.com/yagebin)
 
-- 💬 Ask me about **about econometric analyzing methods and time series related questions**
+- 💬 Ask me about **Data Synthesis and fine-tuning tactic**
 
 - 📫 How to reach me **rickytan79386@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ruiqi-tan-5708a358/](https://www.linkedin.com/in/ruiqi-tan-5708a358/)
 
-- ⚡ Fun fact **The main three main points in my life is PC, Gym and language course**
+- ⚡ Fun fact **Pronous for me is Tech-affinity and liberal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
